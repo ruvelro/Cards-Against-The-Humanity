@@ -1,4 +1,4 @@
-*Cards Against The Humanity (The Game) written in C*
+**Cards Against The Humanity (The Game) written in C**
 
 Need bcards.txt, wcards.txt and cards.c in same directory to work (it uses relative paths). 
 
